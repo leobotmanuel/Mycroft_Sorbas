@@ -16,7 +16,7 @@ Esperamos llegar a lo que hemos visto el el video de [promocion](https://www.you
 ## Arranque de Mycroft-Mark I
 
 
-[Instalación-Actualización inicial](https://github.com/leobotmanuel/Mycroft_Sorbas/blob/master/res/img/mycroft01_instalacion.mp4)
+[Instalación-Actualización inicial](https://raw.githubusercontent.com/leobotmanuel/Mycroft_Sorbas/master/res/img/mycroft01_instalacion.mp4)
 
 #### continuará
 
