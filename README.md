@@ -9,3 +9,5 @@ El asistente [Mycroft](https://mycroft.ai) es Open Source, se puede instalar en 
 
 El [Mark I](https://mycroft.ai/product/mycroft-mark-1/) ha sido es que hemos utilizado en taller.
 
+<a href="" target="_blank"><img width="400" height="300" border="0" align="center" src="res/img/mycroft01.jpg  "/></a>
+
