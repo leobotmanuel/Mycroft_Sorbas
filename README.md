@@ -1,4 +1,4 @@
-# Mycroft_Sorbas
+# Mycroft - Guadatech en Guadalinfo-Sorbas
 Arranque y funcionamiento básico de Mycroft en el [taller de Guadalinfo de Sorbas en Julio 2018](https://www.guadatech.com/abiertas-las-inscripciones-al-taller-intensivo-y-basado-en-proyectos-de-raspberry-pi-junio-julio-2018-en-sorbas/) organizado por [Guadatech](https://www.guadatech.com)
 
 ## ¿Qué es Mycroft?
