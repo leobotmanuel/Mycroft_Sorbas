@@ -15,6 +15,7 @@ Esperamos llegar a lo que hemos visto el el video de [promocion](https://www.you
 
 ## Arranque de Mycroft-Mark I
 
+La [puesta en marcha de Mark I](https://mycroft.ai/documentation/mark-1/) siendo el mejor resultado la conexión por cable, como podemos ver en el siguiente video.
 
 [Instalación-Actualización inicial](https://raw.githubusercontent.com/leobotmanuel/Mycroft_Sorbas/master/res/img/mycroft01_instalacion.mp4)
 
