@@ -7,7 +7,13 @@ Arranque y funcionamiento básico de Mycroft en el [taller de Guadalinfo de Sorb
 
 El asistente [Mycroft](https://mycroft.ai) es Open Source, se puede instalar en diferentes [plataformas](https://mycroft.ai/get-mycroft/) y dispone de un plataforma hardware propia [Mark I](https://mycroft.ai/product/mycroft-mark-1/)
 
-El [Mark I](https://mycroft.ai/product/mycroft-mark-1/) ha sido es que hemos utilizado en taller.
+El [Mark I](https://mycroft.ai/product/mycroft-mark-1/) ha sido es que hemos utilizado en el taller.
 
 <a href="" target="_blank"><img width="400" height="300" border="0" align="center" src="res/img/mycroft01.jpg  "/></a>
+
+Esperamos llegar a lo que hemos visto el el video de [promocion](https://www.youtube.com/watch?time_continue=29&v=g1G0yEKuED8)
+
+## Arranque de Mycroft-Mark I
+
+#### continuará
 
